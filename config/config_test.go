@@ -6,7 +6,7 @@ package config
 import (
 	"testing"
 
-	"github.com/kelseyhightower/confd/log"
+	"github.com/wordtreefoundation/confd/log"
 )
 
 func TestLoadConfig(t *testing.T) {

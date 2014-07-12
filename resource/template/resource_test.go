@@ -11,8 +11,8 @@ import (
 	"testing"
 	"text/template"
 
-	"github.com/kelseyhightower/confd/config"
-	"github.com/kelseyhightower/confd/log"
+	"github.com/wordtreefoundation/confd/config"
+	"github.com/wordtreefoundation/confd/log"
 )
 
 type MockKey struct {

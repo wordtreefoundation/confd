@@ -4,11 +4,11 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/kelseyhightower/confd/backends/consul"
-	"github.com/kelseyhightower/confd/backends/env"
-	"github.com/kelseyhightower/confd/backends/etcd/etcdutil"
-	"github.com/kelseyhightower/confd/config"
-	"github.com/kelseyhightower/confd/log"
+	"github.com/wordtreefoundation/confd/backends/consul"
+	"github.com/wordtreefoundation/confd/backends/env"
+	"github.com/wordtreefoundation/confd/backends/etcd/etcdutil"
+	"github.com/wordtreefoundation/confd/config"
+	"github.com/wordtreefoundation/confd/log"
 )
 
 // The StoreClient interface is implemented by objects that can retrieve

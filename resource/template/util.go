@@ -14,7 +14,7 @@ import (
 	"syscall"
 
 	"github.com/coreos/go-etcd/etcd"
-	"github.com/kelseyhightower/confd/log"
+	"github.com/wordtreefoundation/confd/log"
 )
 
 // fileInfo describes a configuration file and is returned by fileStat.

@@ -18,10 +18,10 @@ import (
 	"encoding/json"
 
 	"github.com/BurntSushi/toml"
-	"github.com/kelseyhightower/confd/backends"
-	"github.com/kelseyhightower/confd/config"
-	"github.com/kelseyhightower/confd/log"
-	"github.com/kelseyhightower/confd/node"
+	"github.com/wordtreefoundation/confd/backends"
+	"github.com/wordtreefoundation/confd/config"
+	"github.com/wordtreefoundation/confd/log"
+	"github.com/wordtreefoundation/confd/node"
 )
 
 // TemplateResourceConfig holds the parsed template resource.

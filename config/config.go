@@ -13,7 +13,7 @@ import (
 	"strconv"
 
 	"github.com/BurntSushi/toml"
-	"github.com/kelseyhightower/confd/log"
+	"github.com/wordtreefoundation/confd/log"
 )
 
 var (
