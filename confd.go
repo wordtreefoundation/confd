@@ -9,10 +9,10 @@ import (
 	"os"
 	"time"
 
-	"github.com/kelseyhightower/confd/backends"
-	"github.com/kelseyhightower/confd/config"
-	"github.com/kelseyhightower/confd/log"
-	"github.com/kelseyhightower/confd/resource/template"
+	"github.com/wordtreefoundation/confd/backends"
+	"github.com/wordtreefoundation/confd/config"
+	"github.com/wordtreefoundation/confd/log"
+	"github.com/wordtreefoundation/confd/resource/template"
 )
 
 var (
